@@ -3,7 +3,7 @@ A Image Classifier which uses InceptionV3 model for multiclassification by Train
 
 Instructions:
  
-1. Install Docker
+1. Install Docker &  Latest TensorFlow on it.
 
 2. Create directory tf_files in Docker
 
