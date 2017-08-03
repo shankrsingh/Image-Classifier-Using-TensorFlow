@@ -7,13 +7,13 @@ Instructions:
 
 2. Create directory tf_files in Docker
 
-3. Link the directory.
+3. Link the directory to local Filesystem.
 
-4. run.sh
+4. Run File 'run.sh' on Docker.
 
 5. Put images of the classes in the classifier folder
 
-6. retrain.sh
+6. Run File 'retrain.sh'.
 
 7. Run classifier.py by giving a test image.
 
